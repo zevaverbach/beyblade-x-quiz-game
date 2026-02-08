@@ -560,9 +560,8 @@ body {
     font-size: 3rem;
     font-family: var(--font-heading);
     font-weight: 900;
-    background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold) 50%, var(--gold-dark) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: var(--marble);
+    text-shadow: 0 0 20px rgba(212, 175, 55, 0.5);
     margin: 15px 0;
 }
 
