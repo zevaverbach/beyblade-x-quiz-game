@@ -273,8 +273,8 @@ const questions = [
     },
     // Q35 correct=2
     {
-        question: "What does the 'F' stand for in the Flat (F) Bit?",
-        options: ["Force", "Fast", "Flat", "Free"],
+        question: "What does the 'F' stand for in the (F) Bit?",
+        options: ["Fast", "Force", "Flat", "Free"],
         correct: 2,
         funFact: "The Flat Bit has a flat contact surface that creates aggressive, high-speed movement patterns. It was the first Bit introduced in BX-01 Dran Sword.",
         wiki: "https://beyblade.fandom.com/wiki/Bit_(Beyblade_X)"
@@ -297,7 +297,7 @@ const questions = [
     },
     // Q38 correct=1
     {
-        question: "What does 'HN' stand for in the High Needle Bit?",
+        question: "What does the Bit abbreviation 'HN' stand for?",
         options: ["Hyper Needle", "High Needle", "Heavy Needle", "Hex Needle"],
         correct: 1,
         funFact: "The High Needle Bit is highly valued for defensive consistency. It first appeared in BX-13 Knight Lance 4-80HN and provides stable, centered movement.",
@@ -305,7 +305,7 @@ const questions = [
     },
     // Q39 correct=2
     {
-        question: "What does 'GF' stand for in the Gear Flat Bit?",
+        question: "What does the Bit abbreviation 'GF' stand for?",
         options: ["Ground Flat", "Glide Flat", "Gear Flat", "Grip Flat"],
         correct: 2,
         funFact: "The Gear Flat Bit combines aggressive flat tip movement with gear teeth for interacting with the X-Celerator Rail. It first appeared on Phoenix Wing 9-60GF.",
@@ -329,7 +329,7 @@ const questions = [
     },
     // Q42 correct=1
     {
-        question: "What does the 'DB' abbreviation stand for in the Disk Ball Bit?",
+        question: "What does the Bit abbreviation 'DB' stand for?",
         options: ["Double Ball", "Disk Ball", "Deep Ball", "Dash Ball"],
         correct: 1,
         funFact: "The Disk Ball Bit first appeared in UX-03 Wizard Rod 5-70DB. Its disk shape provides additional stamina, making it key to one of the most dominant competitive combos.",
@@ -657,7 +657,7 @@ const questions = [
     },
     // Q83 correct=2
     {
-        question: "What does the 'LF' abbreviation stand for in the Low Flat Bit?",
+        question: "What does the Bit abbreviation 'LF' stand for?",
         options: ["Left Flat", "Long Flat", "Low Flat", "Light Flat"],
         correct: 2,
         funFact: "The Low Flat Bit sits lower than the standard Flat, making it easier to contact the Xtreme Line. This makes it especially aggressive for Attack types.",
@@ -665,7 +665,7 @@ const questions = [
     },
     // Q84 correct=3
     {
-        question: "What does the 'FB' abbreviation stand for in the Free Ball Bit?",
+        question: "What does the Bit abbreviation 'FB' stand for?",
         options: ["Fast Ball", "Force Ball", "Flat Ball", "Free Ball"],
         correct: 3,
         funFact: "The Free Ball Bit first appeared in UX-08 Silver Wolf 3-80FB, the first gimmick Beyblade in the UX line. Its free-spinning ball tip creates unique movement.",
